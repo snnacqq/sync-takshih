@@ -1,4 +1,4 @@
-# sync-takshih سكربت التكشيح
+# sync-takshih التكشيح
 
 Your trust is our pride, and we promise to always live up to your expectations.
 .ثقتكم فخر لنا، ونتعهد أن نكون دائمًا عند حسن ظنكم
